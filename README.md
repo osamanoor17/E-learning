@@ -15,7 +15,7 @@ A simple and responsive **E-Learning website UI** built using **Vanilla HTML, CS
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/e-learning-ui.git
+   git clone https://github.com/osamanoor17/e-learning-ui.git
    ```  
 2. Open the project folder.  
 3. Run the `index.html` file in a browser.  
